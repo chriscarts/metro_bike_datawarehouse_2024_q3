@@ -3,7 +3,7 @@ Overview
 The Metro Bike Data Warehouse project is designed to analyze bike-sharing trip data to identify patterns, trends, and actionable insights. By utilizing data warehousing techniques, this project supports optimized station placement, usage analysis, and decision-making through visualizations.
 
 Key Features
-Centralized data warehouse using a star schema (fact and dimension tables).
+Centralized data warehouse using a star schema (fact and dimension tables). 
 Cleaned and transformed bike trip data using ETL processes.
 Interactive visualizations created in Power BI for analyzing:
 Top 5 busiest stations.
