@@ -2,7 +2,7 @@
 # Metro Bike Data Warehouse Project 2024 Q3
 
 ## Overview
-The **Metro Bike Data Warehouse** project is designed to analyze bike-sharing trip data for Q3 2024. By utilizing data warehousing techniques, this project supports:
+The **Metro Bike Data Warehouse 2024 Q3** project is designed to analyze bike-sharing trip data for Q3 2024. By utilizing data warehousing techniques, this project supports:
 - Optimized station placement
 - Usage analysis
 - Decision-making through visualizations
